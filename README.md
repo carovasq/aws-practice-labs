@@ -1,8 +1,6 @@
 # Laboratorios prácticos de AWS Cloud
 Estos ejercicios tienen como objetivo mejorar su comprensión de AWS Cloud mediante laboratorios prácticos con su solución. 
 
-## Índice
-1. **[Lab 01 - Introducción a AWS EC2](#lab-01--introducción)**
 
 ## AWS
 ### Labs
